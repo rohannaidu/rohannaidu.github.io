@@ -86,8 +86,8 @@ author:
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
-  googlescholar    :
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=ezpWg04AAAAJ&hl=en"
+  email            : "rohan.naidu@cfa.harvard.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rohannaidu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
