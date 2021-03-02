@@ -181,10 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   movies/data:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
