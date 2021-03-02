@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Astronomy, Harvard University, USA, 2022 (expected)
-* A.M. in Astronomy, Harvard University, USA, 2019
 * B.S. in Physical Sciences, Yale-NUS College, Singapore, 2017
 
 Academic CV here.
