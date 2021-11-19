@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Links to ADS libraries (updated 5th March, 2021)
+Links to ADS libraries
 
 <a href="https://ui.adsabs.harvard.edu/public-libraries/OGJGndqYQSCmU3Npk14PrA" target="_blank">First & Second author papers</a>
 
