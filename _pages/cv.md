@@ -13,6 +13,6 @@ Education
 * Ph.D in Astronomy, Harvard University, USA, 2022
 * B.S. in Physical Sciences, Yale-NUS College, Singapore, 2017
 
-<a href="https://rohannaidu.github.io/files/Rohan_Naidu[CV].pdf" target="_blank">Academic CV</a> (last updated Mar 2024).
+<a href="https://rohannaidu.github.io/files/Rohan_Naidu[CV].pdf" target="_blank">Academic CV</a> (last updated Feb 2025).
 
 
