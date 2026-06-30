@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Rohan Naidu"
-description              : &description "Astronomer at MIT"
+description              : &description "Astronomer at the University of Hawaii"
 url                      : https://rohannaidu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rohannaidu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rohan Naidu"
   avatar           : "profile.jpg"
-  bio              : "Astronomer at MIT"
-  location         : "Cambridge, MA"
+  bio              : "Astronomer at the University of Hawai'i"
+  location         : "Honolulu, HI"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ezpWg04AAAAJ&hl=en"
-  email            : "rnaidu@mit.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=GoO2iCYAAAAJ&hl=en"
+  email            : "rnaidu@hawaii.edu"
   researchgate     :
   uri              :
   bitbucket        :
